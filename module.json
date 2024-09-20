@@ -1,0 +1,279 @@
+{
+  "id": "thrill-of-death",
+  "title": "Thrill of Death",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "daredevil-actions",
+      "label": "Daredevil - Actions",
+      "path": "packs/daredevil-actions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-archetype-feats",
+      "label": "Daredevil - Archetype Feats",
+      "path": "packs/daredevil-archetype-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-class",
+      "label": "Daredevil - Class",
+      "path": "packs/daredevil-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-class-features",
+      "label": "Daredevil - Class Features",
+      "path": "packs/daredevil-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-effects",
+      "label": "Daredevil - Effects",
+      "path": "packs/daredevil-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-feats",
+      "label": "Daredevil - Feats",
+      "path": "packs/daredevil-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-journal",
+      "label": "Daredevil - Journal",
+      "path": "packs/daredevil-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-class",
+      "label": "Martyr - Class",
+      "path": "packs/martyr-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-class-features",
+      "label": "Martyr - Class Features",
+      "path": "packs/martyr-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-feats",
+      "label": "Martyr - Feats",
+      "path": "packs/martyr-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-actions",
+      "label": "Martyr - Actions",
+      "path": "packs/martyr-actions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-effects",
+      "label": "Martyr - Effects",
+      "path": "packs/martyr-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-archetype-feats",
+      "label": "Martyr - Archetype Feats",
+      "path": "packs/martyr-archetype-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "martyr-journal",
+      "label": "Martyr - Journal",
+      "path": "packs/martyr-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tod-conditions",
+      "label": "ToD Conditions",
+      "path": "packs/tod-conditions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daredevil-macros",
+      "label": "Daredevil - Macros",
+      "path": "packs/daredevil-macros",
+      "type": "Macro",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Thrill of Death",
+      "sorting": "a",
+      "packs": ["tod-conditions"],
+      "folders": [
+		{
+          "name": "Daredevil",
+          "sorting": "a",
+          "color": "#ff7f50",
+          "packs": [
+            "daredevil-actions",
+            "daredevil-archetype-feats",
+            "daredevil-class",
+            "daredevil-class-features",
+            "daredevil-effects",
+            "daredevil-feats",
+            "daredevil-journal",
+			"daredevil-macros"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Martyr",
+          "sorting": "a",
+          "color": "#536878",
+          "packs": [
+            "martyr-actions",
+            "martyr-archetype-feats",
+            "martyr-class",
+            "martyr-class-features",
+            "martyr-effects",
+            "martyr-feats",
+            "martyr-journal"
+          ],
+          "folders": []
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "thrill-of-death": {
+      "pf2e-homebrew": {
+        "featTraits": {
+		  "mark-1": {
+            "label": "Mark 1",
+            "description": "???"
+          },
+		  "mark-2": {
+            "label": "Mark 2",
+            "description": "???"
+          },
+		  "mark-3": {
+            "label": "Mark 3",
+            "description": "???"
+          },
+		  "mark-4": {
+            "label": "Mark 4",
+            "description": "???"
+          },
+		  "anomaly": {
+            "label": "Anomaly",
+            "description": "Abilities with this trait require you to have at least an anomaly manifested. If you don’t have one, then you are unable to do this activity."
+          },
+          "daredevil-feats": {
+            "label": "Daredevil",
+            "description": "Feats and features of the daredevil class."
+          },
+          "martyr-feats": {
+            "label": "Martyr",
+            "description": "Feats and features of the martyr class."
+          }
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "name": "Vasco Duarte"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "https://github.com/VascoRodriguesDuarte/thrillofdeath",
+  "manifest": "???",
+  "download": "???"
+}
