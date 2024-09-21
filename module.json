@@ -1,7 +1,7 @@
 {
   "id": "thrill-of-death",
   "title": "Thrill of Death",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -230,19 +230,19 @@
         "featTraits": {
 		  "mark-1": {
             "label": "Mark 1",
-            "description": "???"
+            "description": "If this activity would mark a creature, it gains one mark."
           },
 		  "mark-2": {
             "label": "Mark 2",
-            "description": "???"
+            "description": "If this activity would mark a creature, it gains two marks."
           },
 		  "mark-3": {
             "label": "Mark 3",
-            "description": "???"
+            "description": "If this activity would mark a creature, it gains three marks."
           },
 		  "mark-4": {
             "label": "Mark 4",
-            "description": "???"
+            "description": "If this activity would mark a creature, it gains four marks."
           },
 		  "anomaly": {
             "label": "Anomaly",
@@ -274,6 +274,6 @@
     ]
   },
   "url": "https://github.com/VascoRodriguesDuarte/thrillofdeath",
-  "manifest": "???",
-  "download": "???"
+  "manifest": "https://raw.githubusercontent.com/VascoRodriguesDuarte/thrillofdeath/refs/heads/master/module.json",
+  "download": "https://github.com/VascoRodriguesDuarte/thrillofdeath/archive/refs/heads/master.zip"
 }
