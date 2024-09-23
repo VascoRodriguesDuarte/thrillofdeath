@@ -1,5 +1,17 @@
-2024/09/22-00:50:54.415 46d8 Recovering log #27
-2024/09/22-00:50:54.415 46d8 Level-0 table #29: started
-2024/09/22-00:50:54.418 46d8 Level-0 table #29: 18347 bytes OK
-2024/09/22-00:50:54.422 46d8 Delete type=0 #27
-2024/09/22-00:50:54.422 46d8 Delete type=3 #25
+2024/09/22-18:32:29.643 2f44 Recovering log #34
+2024/09/22-18:32:29.643 2f44 Level-0 table #36: started
+2024/09/22-18:32:29.652 2f44 Level-0 table #36: 1367 bytes OK
+2024/09/22-18:32:29.655 2f44 Delete type=0 #34
+2024/09/22-18:32:29.655 2f44 Delete type=3 #33
+2024/09/22-18:32:29.655 d6c Compacting 4@0 + 0@1 files
+2024/09/22-18:32:29.660 d6c Generated table #38@0: 84 keys, 60093 bytes
+2024/09/22-18:32:29.660 d6c Compacted 4@0 + 0@1 files => 60093 bytes
+2024/09/22-18:32:29.661 d6c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/22-18:32:29.661 d6c Delete type=2 #21
+2024/09/22-18:32:29.662 d6c Delete type=2 #26
+2024/09/22-18:32:29.662 d6c Delete type=2 #29
+2024/09/22-18:32:29.662 d6c Delete type=2 #36
+2024/09/23-05:01:54.924 d6c Level-0 table #40: started
+2024/09/23-05:01:54.924 d6c Level-0 table #40: 0 bytes OK
+2024/09/23-05:01:54.925 d6c Delete type=0 #37
+2024/09/23-05:01:54.936 d6c Manual compaction at level-0 from '!folders!1f5FL3Vssg5vPRm2' @ 72057594037927935 : 1 .. '!items!zyqxmCA21dx2d2xl' @ 0 : 0; will stop at (end)

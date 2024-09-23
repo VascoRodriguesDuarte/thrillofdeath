@@ -1,3 +1,13 @@
-2024/09/22-00:50:54.436 44a4 Recovering log #25
-2024/09/22-00:50:54.440 44a4 Delete type=0 #25
-2024/09/22-00:50:54.441 44a4 Delete type=3 #24
+2024/09/22-18:32:29.662 4b44 Recovering log #32
+2024/09/22-18:32:29.666 4b44 Delete type=0 #32
+2024/09/22-18:32:29.666 4b44 Delete type=3 #31
+2024/09/23-05:01:54.923 d6c Level-0 table #36: started
+2024/09/23-05:01:54.923 d6c Level-0 table #36: 0 bytes OK
+2024/09/23-05:01:54.924 d6c Delete type=0 #34
+2024/09/23-05:01:54.926 d6c Manual compaction at level-0 from '!journal!bDhSpZ7th2rmdiBq' @ 72057594037927935 : 1 .. '!journal.pages!bDhSpZ7th2rmdiBq.p2OrrfFtCoG70MdE' @ 0 : 0; will stop at '!journal.pages!bDhSpZ7th2rmdiBq.p2OrrfFtCoG70MdE' @ 1 : 1
+2024/09/23-05:01:54.926 d6c Compacting 1@0 + 0@1 files
+2024/09/23-05:01:54.934 d6c Generated table #37@0: 2 keys, 2205 bytes
+2024/09/23-05:01:54.934 d6c Compacted 1@0 + 0@1 files => 2205 bytes
+2024/09/23-05:01:54.935 d6c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/23-05:01:54.936 d6c Delete type=2 #29
+2024/09/23-05:01:54.941 d6c Manual compaction at level-0 from '!journal.pages!bDhSpZ7th2rmdiBq.p2OrrfFtCoG70MdE' @ 1 : 1 .. '!journal.pages!bDhSpZ7th2rmdiBq.p2OrrfFtCoG70MdE' @ 0 : 0; will stop at (end)
