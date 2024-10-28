@@ -1,7 +1,7 @@
 {
   "id": "thrill-of-death",
   "title": "Thrill of Death",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -182,13 +182,27 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "tod-equipment",
+      "label": "ToD Equipment",
+      "path": "packs/tod-equipment",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
     {
       "name": "Thrill of Death",
       "sorting": "a",
-      "packs": ["tod-conditions"],
+      "packs": [
+		"tod-conditions",
+		"tod-equipment"
+	  ],
       "folders": [
 		{
           "name": "Daredevil",
