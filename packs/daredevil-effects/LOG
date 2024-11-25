@@ -1,3 +1,7 @@
-2024/11/24-12:22:01.039 740 Recovering log #173
-2024/11/24-12:22:01.043 740 Delete type=0 #173
-2024/11/24-12:22:01.043 740 Delete type=3 #171
+2024/11/25-14:36:19.220 df30 Recovering log #182
+2024/11/25-14:36:19.224 df30 Delete type=0 #182
+2024/11/25-14:36:19.224 df30 Delete type=3 #181
+2024/11/25-16:26:53.073 4370 Level-0 table #186: started
+2024/11/25-16:26:53.074 4370 Level-0 table #186: 0 bytes OK
+2024/11/25-16:26:53.074 4370 Delete type=0 #184
+2024/11/25-16:26:53.078 4370 Manual compaction at level-0 from '!items!2klTJpOx2k6rJxM7' @ 72057594037927935 : 1 .. '!items!oYs6slHOynUz8ibv' @ 0 : 0; will stop at (end)
