@@ -1,5 +1,5 @@
-2024/12/22-00:20:11.813 4bb0 Recovering log #261
-2024/12/22-00:20:11.814 4bb0 Level-0 table #263: started
-2024/12/22-00:20:11.822 4bb0 Level-0 table #263: 25107 bytes OK
-2024/12/22-00:20:11.826 4bb0 Delete type=0 #261
-2024/12/22-00:20:11.826 4bb0 Delete type=3 #260
+2024/12/24-21:36:33.192 59f0 Recovering log #279
+2024/12/24-21:36:33.193 59f0 Level-0 table #281: started
+2024/12/24-21:36:33.195 59f0 Level-0 table #281: 7866 bytes OK
+2024/12/24-21:36:33.198 59f0 Delete type=0 #279
+2024/12/24-21:36:33.198 59f0 Delete type=3 #278
