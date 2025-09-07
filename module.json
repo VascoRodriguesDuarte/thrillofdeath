@@ -1,10 +1,10 @@
 {
   "id": "thrill-of-death",
   "title": "Thrill of Death",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "packs": [
     {
