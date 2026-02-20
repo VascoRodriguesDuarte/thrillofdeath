@@ -1,7 +1,7 @@
 {
   "id": "thrill-of-death",
   "title": "Thrill of Death",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -263,7 +263,7 @@
             "description": "Abilities with this trait require you to have at least an anomaly manifested. If you don’t have one, then you are unable to do this activity."
           },
           "daredevil-feats": {
-            "label": "Daredevil",
+            "label": "Daredevil (Vasco)",
             "description": "Feats and features of the daredevil class."
           },
           "martyr-feats": {
